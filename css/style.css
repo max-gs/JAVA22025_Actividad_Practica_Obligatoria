@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#pantalla-dividida{
+
+    display:flex;
+    position: relative;
+    width: 100%;
+}
+.card {
+    flex:1;
+}
+.card-img-top {
+    width: 100%;
+    height: 100%;
+}
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
